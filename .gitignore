@@ -1,3 +1,17 @@
 /venv
 
 /data
+
+/notebooks/pretrained_models
+
+*/__pycache__
+
+src/bkp_checkpoints
+
+src/pretrained_models
+
+src/checkpoints
+
+src/speaker_embeddings.py
+
+pretrained_models
